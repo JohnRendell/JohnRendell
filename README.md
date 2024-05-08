@@ -21,5 +21,5 @@ I'm a passionate coder with a knack for database management. I love diving into 
 
 ## Reach Me
 
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/john-rendell-catuiza-189716281/)
+- **LinkedIn:** [Linked In Profile](https://www.linkedin.com/in/john-rendell-catuiza-189716281/)
 - **Email:** catuiza.johnrendell@gmail.com
