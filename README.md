@@ -1,26 +1,20 @@
-# Hi there, I'm John Rendell Catuiza! 👋
+# Yo, I'm John Rendell Catuiza!
 
 ## About Me
+I am John Rendell Catuiza BSIT student, aspiring to be full stack web developer 🖥️.
 
-I am John Rendell Catuiza, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
+## Tech Stack
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/mongo_db-black?style=for-the-badge&logo=mongodb)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io)
+![Mysql](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 
-## Education
-
-- **BS Information Technology**
-  New Era University
-  *2021-Present*
-
-## Certification
-
-- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/7d343974b8fb48118b7407db1b1f27f6)
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=136F898A0CA0B714376326BC1C64568860260FC1AB080EA8809583171C8D544E)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=622B83EC25B1124BBEAAA67F78AAF5ED9195B85F1B9AC7B61FEA43F2B83FC5C1)
-
-## Skill Sets
-
-- **Programming:** Java, JavaScript
-- **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+## Software Stack
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
+![AdobePhotoshop](https://img.shields.io/badge/Adobe_Photoshop-black?style=for-the-badge&logo=adobephotoshop)
 
 ## You may reach me at
 
