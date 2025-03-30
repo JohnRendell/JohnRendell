@@ -18,9 +18,9 @@ I love making cool web apps and developing games stuff.
 ![Godot](https://img.shields.io/badge/Godot-black?style=for-the-badge&logo=godotengine)  
 ![GDScript](https://img.shields.io/badge/GDScript-black?style=for-the-badge&logo=godotengine)  
 
-### 🐍 Other  
+### 🖥️ Other  
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)  
-
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
 
 ## 🛠️ Software & Tools  
 
