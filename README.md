@@ -1,36 +1,48 @@
-# 🚀 Yo, I'm John Rendell Catuiza!  
+# 🚀 Yo, I'm John Rendell Catuiza!
 
 ### 🎮 Hobbyist Programmer | 🌐 Web & Game Dev Enthusiast  
+I love creating cool web apps and building games.
 
-I love making cool web apps and developing games stuff. 
+---
 
-## ⚡ Tech Stack  
+## ⚡ Tech Stack
 
-### 🖥️ Web Development  
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)  
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)  
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)  
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss)  
-![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io)  
+### 🌐 Web Development  
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### 🎮 Game Development  
-![Godot](https://img.shields.io/badge/Godot-black?style=for-the-badge&logo=godotengine)  
-![GDScript](https://img.shields.io/badge/GDScript-black?style=for-the-badge&logo=godotengine)  
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-355570?style=flat-square&logo=godotengine&logoColor=white)
 
-### 🖥️ Other  
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)  
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
+### 🧰 Other Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
-## 🛠️ Software & Tools  
+---
 
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)  
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)  
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-black?style=for-the-badge&logo=adobephotoshop)  
-![Godot Engine](https://img.shields.io/badge/Godot_Engine-black?style=for-the-badge&logo=godotengine)  
+## 🛠️ Tools & Design
 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
-## 📬 Connect with Me  
+---
 
-📌 **LinkedIn:** [John Rendell Catuiza](https://www.linkedin.com/in/john-rendell-catuiza-189716281/)  
-📧 **Email:** catuiza.johnrendell@gmail.com
+## 📂 Featured Projects
+
+- 🔗 [**Anonymous_Chat**](https://github.com/JohnRendell/Anonymous_Chat): WebSocket-based chat app using Express + Socket.IO
+- 🎮 [**Raid-Pixel (WIP)**](https://github.com/JohnRendell/raid-pixel): Cross-platform game in Godot (mobile/web/PC)
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-rendell-catuiza-189716281/)
+[![Email](https://img.shields.io/badge/Email-catuiza.johnrendell@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:catuiza.johnrendell@gmail.com)
+
