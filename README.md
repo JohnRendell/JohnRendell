@@ -8,6 +8,7 @@ I love creating cool web apps and building games.
 ## ⚡ Tech Stack
 
 ### 🌐 Web Development  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
@@ -37,7 +38,6 @@ I love creating cool web apps and building games.
 ## 📂 Featured Projects
 
 - 🔗 [**Anonymous_Chat**](https://github.com/JohnRendell/Anonymous_Chat): WebSocket-based chat app using Express + Socket.IO
-- 🎮 [**Raid-Pixel (WIP)**](https://github.com/JohnRendell/raid-pixel): Cross-platform game in Godot (mobile/web/PC)
 
 ---
 
@@ -45,4 +45,3 @@ I love creating cool web apps and building games.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-rendell-catuiza-189716281/)
 [![Email](https://img.shields.io/badge/Email-catuiza.johnrendell@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:catuiza.johnrendell@gmail.com)
-
