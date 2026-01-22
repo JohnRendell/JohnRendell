@@ -37,7 +37,7 @@ I build web apps, experiment with multiplayer systems, and occasionally argue wi
 ---
 
 ## Current Project  
-**Project:** *Space-Adventure-Pixel MMORPG 2D pixel game*  
+**Project:** *Orbit Colonies Multiplayer Adventure 2D pixel game*  
 This is the current project im working on in godot, i want to master the networking especially the multiplayer logic how the server and client communicate.
 
 ---
