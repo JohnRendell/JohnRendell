@@ -1,7 +1,7 @@
 # John Rendell Catuiza
 
 ### Hobbyist Programmer • Web, Mobile & Game Dev Enthusiast  
-I build web apps, experiment with multiplayer systems, and occasionally argue with game engines until they cooperate.
+I build web apps and games.
 
 ---
 
