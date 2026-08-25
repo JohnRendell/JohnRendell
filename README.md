@@ -36,12 +36,6 @@ I build web apps and games.
 
 ---
 
-## Current Project  
-**Project:** *Orbit Colonies Multiplayer Adventure 2D pixel game*  
-This is the current project im working on in godot, i want to master the networking especially the multiplayer logic how the server and client communicate.
-
----
-
 ## Featured Projects  
 - [**Anonymous_Chat**](https://github.com/JohnRendell/Anonymous_Chat) — WebSocket chat app using Express + Socket.IO
 
